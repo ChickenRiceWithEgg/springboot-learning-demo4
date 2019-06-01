@@ -1,0 +1,8 @@
+#API接口文档的基本信息
+swagger:
+  title: springboot学习
+  description: springboot快速入门学习
+  version: 1.0.0
+  name: 谢经纬
+  url: http://www.baidu.com
+  email: jingwei144@foxmail.com
