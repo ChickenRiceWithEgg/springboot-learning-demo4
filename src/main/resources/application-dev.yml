@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+
+person:
+  name: xjw
+  age: 23
+  sex: 男
+  birth: 1996/05/12

@@ -6,3 +6,13 @@ swagger:
   name: 谢经纬
   url: http://www.baidu.com
   email: jingwei144@foxmail.com
+
+
+server:
+  port: 8088
+  servlet:
+    context-path: /demo4
+
+spring:
+  profiles:
+    active: dev
